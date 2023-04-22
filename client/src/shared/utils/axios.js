@@ -1,6 +1,6 @@
 import axios from 'axios';
     
-const baseURL = 'http://localhost:3000';
+const baseURL = 'https://web-production-d75d.up.railway.app';
 
 const axios = axios.create({
     baseURL,
